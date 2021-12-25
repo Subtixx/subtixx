@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 This week I worked on ...
+# 💬 Ask me about...
+
+C++, C#, PHP, Dart
+
+# 🔭 This week I worked on ... [![wakatime](https://wakatime.com/badge/user/053d52ed-2422-4b93-bc88-3f40d6d9125b.svg)](https://wakatime.com/@053d52ed-2422-4b93-bc88-3f40d6d9125b)
 
 <!--START_SECTION:waka-->
 ```text
