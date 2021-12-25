@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/053d52ed-2422-4b93-bc88-3f40d6d9125b.svg)](https://wakatime.com/@053d52ed-2422-4b93-bc88-3f40d6d9125b)
+
 <!--
 **Subtixx/subtixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +21,7 @@ Here are some ideas to get you started:
 
 C++, C#, PHP, Dart
 
-# 🔭 This week I worked on ... [![wakatime](https://wakatime.com/badge/user/053d52ed-2422-4b93-bc88-3f40d6d9125b.svg)](https://wakatime.com/@053d52ed-2422-4b93-bc88-3f40d6d9125b)
+# 🔭 This week I worked on ... 
 
 <!--START_SECTION:waka-->
 ```text
