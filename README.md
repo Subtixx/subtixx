@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Subtixx' GitHub stats](https://github-readme-stats.vercel.app/api?username=Subtixx&show_icons=true&theme=dracula)
+
 [![wakatime](https://wakatime.com/badge/user/053d52ed-2422-4b93-bc88-3f40d6d9125b.svg)](https://wakatime.com/@053d52ed-2422-4b93-bc88-3f40d6d9125b)
 
 <!--
