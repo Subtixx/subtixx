@@ -2,6 +2,9 @@
 
 ![Subtixx' GitHub stats](https://github-readme-stats.vercel.app/api?username=Subtixx&show_icons=true&theme=dracula)
 
+
+![Subtixx' wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subtixx&layout=donut-vertical&theme=dracula)
+
 [![wakatime](https://wakatime.com/badge/user/053d52ed-2422-4b93-bc88-3f40d6d9125b.svg)](https://wakatime.com/@053d52ed-2422-4b93-bc88-3f40d6d9125b)
 
 <!--
